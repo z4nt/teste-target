@@ -5,4 +5,4 @@ while (K < INDICE) {
     SOMA = SOMA + K;
 }
 
-console.log("Valor final de SOMA:", SOMA); // Resultado: 91
+console.log("Valor final de SOMA:", SOMA); 
